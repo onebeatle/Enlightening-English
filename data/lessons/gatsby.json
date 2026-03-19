@@ -1,0 +1,100 @@
+{
+  "id": "gatsby",
+  "title": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "era": "1920s American Modernism",
+  "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg",
+  "hero_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tsimshian_totem_pole_detail%2C_Dundas_Island%2C_B.C.%2C_1879_%28HS85-10-21938%29.jpg/1280px-Tsimshian_totem_pole_detail%2C_Dundas_Island%2C_B.C.%2C_1879_%28HS85-10-21938%29.jpg",
+  "tagline": "Everyone was reaching for something just out of reach.",
+  "themes": ["ambition", "love", "class", "the american dream", "illusion"],
+  "juicy_details": [
+    "Fitzgerald based Gatsby's lavish parties on real Jazz Age gatherings he attended on Long Island's Gold Coast — he was both fascinated and repelled by the world he was writing about.",
+    "The iconic green light at the end of Daisy's dock was inspired by an actual light Fitzgerald could see from his rented house across the bay. He stared at it while writing.",
+    "The novel sold only 20,000 copies in Fitzgerald's lifetime. He died in 1940 believing it was a failure. It only became a classic after his death.",
+    "Tom Buchanan was partly based on a real Yale football star named Tommy Hitchcock — a polo player Fitzgerald genuinely despised as the embodiment of careless privilege.",
+    "The haunting eyes of Doctor T. J. Eckleburg on the faded billboard were Fitzgerald's metaphor for God watching over a godless, commercialised America — the eyes judge, but they cannot act.",
+    "Fitzgerald originally wanted to call the novel 'Trimalchio in West Egg' — a reference to a Roman satirical character famous for vulgar, excessive parties. His editor talked him out of it.",
+    "Zelda Fitzgerald, his wife, threatened to leave him for a French aviator while he was writing the novel. Some scholars see Daisy's carelessness as Fitzgerald's portrait of Zelda."
+  ],
+  "authors_world": {
+    "location": "Long Island, New York & Paris, France",
+    "description": "Fitzgerald rented a house in Great Neck, Long Island — the real 'West Egg' — from 1922 to 1924 while writing the novel. He could see the grand estates of the North Shore (East Egg) across the bay. He and Zelda also spent extended periods in Paris and the French Riviera among the 'Lost Generation' of expatriate writers including Ernest Hemingway and Gertrude Stein.",
+    "places_to_visit": [
+      {
+        "name": "Sands Point Preserve, Long Island, New York",
+        "why": "The preserve includes Hempstead House and Castlegould — the kind of old-money estates that inspired East Egg. You can walk the same Gold Coast lawns Fitzgerald envied."
+      },
+      {
+        "name": "The Plaza Hotel, New York City",
+        "why": "The infamous confrontation scene where Gatsby and Tom fight over Daisy takes place in a suite here. The hotel is unchanged in atmosphere. Have a drink at the Oak Bar."
+      },
+      {
+        "name": "Montmartre, Paris, France",
+        "why": "The cafés and winding streets of Montmartre were the playground of Fitzgerald's Lost Generation circle. Hemingway's memoir 'A Moveable Feast' is the perfect companion guide."
+      }
+    ]
+  },
+  "literary_techniques": [
+    {
+      "technique": "Symbolism",
+      "example": "The green light at the end of Daisy's dock represents Gatsby's unattainable dream — hope, desire, and the future that always recedes as you reach for it.",
+      "world_connection": "Think of the green light as every notification, status symbol, or milestone you chase — the promotion, the relationship, the number on a screen. The arrival never feels as good as the pursuit. Fitzgerald understood dopamine before neuroscience did."
+    },
+    {
+      "technique": "The Unreliable Narrator",
+      "example": "Nick Carraway declares himself 'one of the few honest people' he has ever known — yet he withholds information, romanticises Gatsby, and edits his own role in events throughout the novel.",
+      "world_connection": "Every first-person social media post is a Nick Carraway — curated, partial, self-serving. We are all narrating our own Gatsby stories, casting ourselves as the moral observer while quietly participating in the spectacle."
+    },
+    {
+      "technique": "Pathetic Fallacy",
+      "example": "The oppressive, suffocating heat during the Plaza Hotel confrontation mirrors the moral decay, tension, and suppressed violence of the scene. The weather becomes an emotional thermometer.",
+      "world_connection": "Film directors use this constantly — thrillers use rain and grey skies, horror uses fog, romcoms use golden-hour light. Watch any Christopher Nolan film and notice how weather tracks moral state."
+    },
+    {
+      "technique": "The American Dream as Critique",
+      "example": "Gatsby reinvents himself completely — new name, new history, new wealth — and it destroys him. The novel argues the Dream is a con: it promises reinvention but punishes those who try it.",
+      "world_connection": "Every 'self-made billionaire' origin story in tech or business echoes Gatsby. The mythos of total reinvention is still sold as aspiration. Fitzgerald's question — at what cost? — remains unanswered."
+    }
+  ],
+  "analysis": "## The Novel as a Whole\n\nFitzgerald's *The Great Gatsby* is less a love story than a **post-mortem on the American Dream**. The Jazz Age surface — parties, wealth, beauty — masks a profound moral emptiness that Fitzgerald diagnosed with surgical precision. The tragedy is not that Gatsby fails to get Daisy. The tragedy is that getting Daisy was never the point.\n\n## The Valley of Ashes\n\nThe industrial wasteland between West Egg and New York is one of the most powerful settings in all of American literature. It represents the hidden cost of the gilded world above — the workers who *enable* the parties are never invited to them. The Valley is where the consequences of carelessness are dumped. Myrtle Wilson lives and dies there.\n\n## Nick as Moral Compass (or Moral Failure)\n\nFitzgerald gives us Nick as our guide, but Nick is complicit in everything he observes. He enables Gatsby's obsession, covers up the truth of Myrtle's death, and abandons everyone at the novel's end. His final condemnation of Tom and Daisy as 'careless people' is accurate — but Nick was their enabler throughout.\n\n## Why It Still Hits\n\nThe novel's genius is that Gatsby is *wrong* about everything — about Daisy, about time, about whether money can buy the past — yet we root for him entirely. Fitzgerald makes us complicit in the illusion. We want Gatsby to win, which means we want the Dream to be real. The novel's power is in making us feel the seduction before pulling the rug.",
+  "modern_connections": [
+    {
+      "type": "film",
+      "title": "Baz Luhrmann's The Great Gatsby (2013)",
+      "connection": "Luhrmann replaces the Jazz Age score with hip-hop — Jay-Z, Beyoncé, Kanye West — arguing that the world of new money, excess, and aspiration *is* Gatsby's world. The anachronism is the point: this story keeps happening."
+    },
+    {
+      "type": "film",
+      "title": "Parasite (2019) — Bong Joon-ho",
+      "connection": "Bong's Palme d'Or masterpiece is a Gatsby for the 21st century — the obsessive study of wealth from the outside, the violence that results from trying to cross class lines, and the revelation that the wealthy are 'careless people' in exactly Fitzgerald's sense."
+    },
+    {
+      "type": "tv",
+      "title": "Succession (2018–2023)",
+      "connection": "The Roy family are the Buchanans — old money, careless, destructive. Every outsider character who enters their world (including Kendall Roy's entire arc) is consumed by it. The show even ends the same way: the careless people walk away untouched."
+    },
+    {
+      "type": "song",
+      "title": "'Young and Beautiful' — Lana Del Rey",
+      "connection": "Written for the 2013 film, it perfectly captures Daisy's central terror: 'Will you still love me when I'm no longer young and beautiful?' The song is Daisy's interior monologue — the fear that her only currency is her youth."
+    },
+    {
+      "type": "song",
+      "title": "'Empire State of Mind' — Jay-Z ft. Alicia Keys",
+      "connection": "The hustle mythology of New York — reinvention, the self-made story, the city as a crucible of ambition — mirrors Gatsby's entire belief system. Jay-Z is a Gatsby who actually made it. Or did he? The song raises the same questions."
+    }
+  ],
+  "reflective_tasks": [
+    "Find a song that captures the feeling of longing for something you can't get back — a person, a place, a version of yourself. Why did you choose it? What does it share with Gatsby's obsession?",
+    "Think of a 'green light' in your own life — something you're chasing that keeps moving away the closer you get. Be honest. What is it really about?",
+    "Find a film, TV show, or piece of art made in the last 10 years that you think Fitzgerald would recognise as telling the same story as Gatsby. Write two sentences on why.",
+    "Nick says he's 'one of the few honest people' he knows. Think of a time you told yourself a story about a situation that made you look better than you were. What was actually going on?"
+  ],
+  "discussion_questions": [
+    "Is Gatsby a romantic hero or a deluded stalker? Does the novel ask us to judge him — or does it want us to love him anyway?",
+    "Fitzgerald was writing about 1920s America. Which parts of the novel feel most true about the world *right now*?",
+    "The novel has almost no working-class voices — the Valley of Ashes is described but never really heard from. Is that a flaw in Fitzgerald's vision, or is the silence itself part of the point?",
+    "Tom Buchanan is openly racist, casually violent, and gets away with everything. Why does the novel not punish him? What is Fitzgerald saying by letting him walk?",
+    "Could a Gatsby exist today — someone who completely reinvents themselves through sheer will and fabricated identity? What would that look like in 2024?"
+  ]
+}
